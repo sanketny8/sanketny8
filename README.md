@@ -62,90 +62,70 @@ I believe in **building systems that scale**, sharing knowledge openly, and trea
 
 ---
 
-### ⚙️ Backend & Distributed Systems Stack
+### 🛠️ Technical Expertise
 
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-<br/>
-
-**Architecture Patterns**
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square) ![Event-Driven](https://img.shields.io/badge/Event--Driven-FF4500?style=flat-square) ![CQRS](https://img.shields.io/badge/CQRS-00BFFF?style=flat-square) ![Domain-Driven Design](https://img.shields.io/badge/DDD-8A2BE2?style=flat-square)
-
-**High-Performance Messaging**
-![NATS](https://img.shields.io/badge/NATS-375C93?style=flat-square) ![Redis Streams](https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square)
-
-**Observability & Reliability**
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square) ![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square)
-
-</div>
-
----
-
-### 🧠 AI/ML Technology Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-339933?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-<br/>
-
-**Frameworks**
-![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
-
-**Inference & Training**
-![vLLM](https://img.shields.io/badge/vLLM-00599C?style=flat-square) ![TGI](https://img.shields.io/badge/TGI-FFD700?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square) ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-68217A?style=flat-square)
-
-</div>
-
----
-
-### ☁️ Cloud & Infrastructure (MLOps)
-
-<div align="center">
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-<br/>
-
-**MLOps Platform**
-![KServe](https://img.shields.io/badge/KServe-000000?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square)
-
-**GPU Optimization**
-![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU_Operator-76B900?style=flat-square) ![DCGM](https://img.shields.io/badge/DCGM-000000?style=flat-square) ![MIG](https://img.shields.io/badge/MIG-76B900?style=flat-square)
-
-</div>
-
----
-
-### 🗄️ Databases & Data Engineering
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AI & GenAI Stack</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-339933?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </div>
+      <br />
+      <b>Frameworks:</b> Transformers • LlamaIndex • LangGraph<br />
+      <b>Inference:</b> vLLM • TGI • ONNX • Triton • TensorRT<br />
+      <b>Training:</b> PEFT • DeepSpeed • FSDP • bitsandbytes<br />
+      <b>Models:</b> GPT-4 • Claude 3 • Llama 3 • Mistral
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Backend & Distributed Systems</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+      </div>
+      <br />
+      <b>Core:</b> Microservices • Event-Driven • CQRS • DDD<br />
+      <b>Messaging:</b> NATS • Redis Streams • RabbitMQ<br />
+      <b>Protocol:</b> gRPC • GraphQL • REST • WebSockets<br />
+      <b>Observability:</b> OpenTelemetry • Prometheus • Jaeger
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Cloud & MLOps</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </div>
+      <br />
+      <b>Serving:</b> KServe • Ray • vLLM Operator • TorchServe<br />
+      <b>GPU Ops:</b> NVIDIA Operator • DCGM • MIG • MPS<br />
+      <b>GitOps:</b> ArgoCD • Flux • Helm • GitHub Actions<br />
+      <b>Clouds:</b> AWS • GCP • Azure • Lambda Labs
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ Data Engineering</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Weaviate-00C7B7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+      </div>
+      <br />
+      <b>Vector DBs:</b> Pinecone • Milvus • Chroma • pgvector<br />
+      <b>Databases:</b> MongoDB • Elasticsearch • DynamoDB<br />
+      <b>Processing:</b> Spark • Airflow • dbt • Kafka Streams<br />
+      <b>Storage:</b> S3 • MinIO • Delta Lake • Iceberg
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -153,26 +133,26 @@ I believe in **building systems that scale**, sharing knowledge openly, and trea
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanketny8&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Statistics" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketny8&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=320&hide=jupyter+notebook" alt="Top Languages"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanketny8&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Statistics" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanketny8&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=320&hide=jupyter+notebook" alt="Top Languages"/>
+  </a>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketny8&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sanketny8&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak"/>
+  </a>
   
 </div>
 
 <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketny8&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=141321&color=A29BFE&line=FF6E96&point=00D9FF" alt="Activity Graph"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=sanketny8&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   
 </div>
 

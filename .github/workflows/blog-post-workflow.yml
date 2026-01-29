@@ -1,0 +1,43 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Fetch and update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # RSS feed URL - UPDATE WITH YOUR ACTUAL FEED
+          feed_list: "https://medium.com/feed/@yourusername"
+          
+          # Maximum number of posts to show
+          max_post_count: 5
+          
+          # README section markers
+          comment_tag_name: "BLOG-POST-LIST"
+          
+          # Commit message
+          commit_message: "Updated with latest blog posts"
+          
+          # Committer info
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
+          
+          # Template for each post
+          template: "- 🔥 [$title]($url)"
+          
+          # Date format
+          date_format: "mmm dd, yyyy"
+

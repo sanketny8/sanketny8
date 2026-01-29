@@ -1,0 +1,34 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README with Recent Activity
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Commit message
+          COMMIT_MSG: 'Update recent activity'
+          
+          # Maximum number of activities to show
+          MAX_LINES: 10
+          
+          # Custom commit info
+          COMMIT_NAME: 'activity-bot'
+          COMMIT_EMAIL: 'activity-bot@users.noreply.github.com'
+

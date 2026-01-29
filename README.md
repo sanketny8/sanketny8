@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;Senior+AI+Engineer+%7C+LLM+Systems+Architect;Building+Production+GenAI+%2B+AI+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;Senior+AI+Engineer+%7C+Backend+System+Architect;Building+Production+LLM+Systems+%2B+Distributed+Infrastructure" alt="Typing SVG" />
   
-  <h3>🚀 Building production LLM systems, GenAI applications & AI-optimized infrastructure</h3>
+  <h3>🚀 Designing scalable distributed systems & production-grade AI platforms</h3>
   
   <a href="https://twitter.com/Ny8Sanket"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/ny8sanket"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,96 +20,49 @@
 
 ## 🚀 About Me
 
-I'm a **Senior AI Engineer** specializing in building **production-grade LLM systems** and **GenAI applications** at scale. My work sits at the intersection of cutting-edge AI research, distributed backend engineering, and cloud-native infrastructure.
+I'm a **Senior AI Engineer & Backend Architect** specializing in building **high-scale distributed systems** and **production-grade GenAI platforms**. My expertise lies in bridging the gap between cutting-edge AI research and robust, scalable backend engineering.
 
 ### 🔭 What I'm Currently Focused On
 
-- 🤖 Building **agentic workflows** with multi-agent collaboration and tool use
-- ⚡ Optimizing **RAG systems** for production (latency, cost, quality improvements)
-- 🎯 Exploring **RLHF and DPO** for LLM alignment and fine-tuning
+- 🏗️ Designing **event-driven microservices** for massive-scale LLM inference
+- ⚡ Optimizing **distributed system latency** (gRPC, NATS, caching strategies)
+- 🤖 Building **agentic workflows** with multi-agent collaboration
+- 🎯 Exploring **System Design patterns** for AI (CQRS, Sharding, Rate Limiting)
 - 💰 Developing **GPU cost optimization** strategies for model serving
-- 🛡️ Implementing **responsible AI** practices and bias mitigation
 
 ### 💡 My Philosophy
 
-I believe in **learning by building**, sharing knowledge openly, and pushing the boundaries of what's possible with modern AI technology. Every system I build is designed to be production-ready, scalable, and maintainable.
+I believe in **building systems that scale**, sharing knowledge openly, and treating infrastructure as code. Every system I design is built for resilience, observability, and performance.
 
 <details>
 <summary>📫 Want to collaborate?</summary>
 <br>
-I'm always interested in connecting with fellow engineers, researchers, and builders in the AI space. Reach out via Twitter/X, LinkedIn, or through my portfolio.
 
-**Open to:**
-- Technical discussions on LLM systems & GenAI architecture
-- Collaboration on open source projects
-- Speaking opportunities & mentorship
-- Code reviews & architecture feedback
+**Open to:** System Design discussions • Backend architecture • Open source collaboration • Speaking opportunities • Code reviews
+
 </details>
 
 ---
 
 ## 💡 Core Competencies
 
-<div align="center">
+### 🏗️ Distributed Systems & Backend Architecture
+
+![System Design](https://img.shields.io/badge/System_Design-Microservices_%7C_Event--Driven_%7C_CQRS-FF4500?style=flat-square)
+![Scalability](https://img.shields.io/badge/Scalability-Sharding_%7C_Load_Balancing_%7C_Caching-00BFFF?style=flat-square)
+![High Perf](https://img.shields.io/badge/Performance-gRPC_%7C_Async_IO_%7C_Concurrency-32CD32?style=flat-square)
+![Resilience](https://img.shields.io/badge/Resilience-Circuit_Breakers_%7C_Rate_Limiting_%7C_Retries-FFA500?style=flat-square)
 
 ### 🤖 LLMs & GenAI Expertise
 
-</div>
+![RAG](https://img.shields.io/badge/RAG_Systems-Advanced_Retrieval_%7C_Hybrid_Search_%7C_Reranking-8A2BE2?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-LoRA_%7C_QLoRA_%7C_RLHF_%7C_DPO-FF6E96?style=flat-square)
+![Agents](https://img.shields.io/badge/LLM_Agents-Orchestration_%7C_Tool_Use_%7C_Planning-FFA500?style=flat-square)
+![VectorDB](https://img.shields.io/badge/Vector_DBs-Weaviate_%7C_Qdrant_%7C_Pinecone-4CAF50?style=flat-square)
 
-| **Category** | **Technologies & Skills** |
-|--------------|--------------------------|
-| **RAG Systems** | Advanced retrieval • Hybrid search • Reranking • Multi-modal support • Query optimization |
-| **Fine-tuning** | LoRA/QLoRA • RLHF • DPO • PEFT • Domain adaptation • Evaluation frameworks |
-| **Prompt Engineering** | Chain-of-Thought • ReAct • Self-reflection • Few-shot learning • Instruction tuning |
-| **LLM Agents** | Multi-agent orchestration • Tool use • Planning & execution • Memory systems |
-| **Vector DBs** | Weaviate • Qdrant • Pinecone • pgvector • Chroma • Milvus |
+---
 
-<div align="center">
-
-### 🧠 AI/ML Technology Stack
-
-</div>
-
-```python
-ai_ml_stack = {
-    "frameworks": ["PyTorch", "Transformers", "LangChain", "LlamaIndex", "LangGraph"],
-    "inference": ["vLLM", "TGI", "ONNX Runtime", "Triton", "TensorRT"],
-    "training": ["PEFT", "TRL", "DeepSpeed", "FSDP", "bitsandbytes"],
-    "monitoring": ["MLflow", "Weights & Biases", "TensorBoard", "Comet"],
-    "models": {
-        "proprietary": ["GPT-4", "Claude 3", "Gemini Pro"],
-        "open_source": ["Llama 3/3.1", "Mistral", "Phi-3", "Qwen 2", "Gemma 2"]
-    }
-}
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-339933?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### ⚙️ Backend & Distributed Systems
-
-</div>
-
-```go
-// High-performance backend stack
-backend_stack := Stack{
-    Languages:    []string{"Go", "Python", "Rust"},
-    Frameworks:   []string{"FastAPI", "gRPC", "Gin", "Echo"},
-    Patterns:     []string{"Microservices", "Event-Driven", "CQRS"},
-    Messaging:    []string{"NATS", "Kafka", "Redis Streams", "RabbitMQ"},
-    Observability: []string{"OpenTelemetry", "Prometheus", "Jaeger", "Grafana"},
-}
-```
+### ⚙️ Backend & Distributed Systems Stack
 
 <div align="center">
 
@@ -120,25 +73,45 @@ backend_stack := Stack{
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+<br/>
+
+**Architecture Patterns**
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square) ![Event-Driven](https://img.shields.io/badge/Event--Driven-FF4500?style=flat-square) ![CQRS](https://img.shields.io/badge/CQRS-00BFFF?style=flat-square) ![Domain-Driven Design](https://img.shields.io/badge/DDD-8A2BE2?style=flat-square)
+
+**High-Performance Messaging**
+![NATS](https://img.shields.io/badge/NATS-375C93?style=flat-square) ![Redis Streams](https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square)
+
+**Observability & Reliability**
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square) ![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square)
+
 </div>
+
+---
+
+### 🧠 AI/ML Technology Stack
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure (MLOps)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-339933?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+**Frameworks**
+![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
+
+**Inference & Training**
+![vLLM](https://img.shields.io/badge/vLLM-00599C?style=flat-square) ![TGI](https://img.shields.io/badge/TGI-FFD700?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square) ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-68217A?style=flat-square)
 
 </div>
 
-```terraform
-# AI Infrastructure Stack
-module "ai_platform" {
-  gpu_orchestration = ["Kubernetes", "Ray", "Dask"]
-  model_serving     = ["KServe", "vLLM Operator", "Triton", "TorchServe"]
-  iac               = ["Terraform", "Pulumi", "CloudFormation"]
-  gitops            = ["ArgoCD", "Flux CD", "Helm"]
-  gpu_optimization  = ["NVIDIA GPU Operator", "DCGM", "MIG", "MPS"]
-  cloud_providers   = ["AWS", "GCP", "Azure", "Lambda Labs"]
-}
-```
+---
+
+### ☁️ Cloud & Infrastructure (MLOps)
 
 <div align="center">
 
@@ -149,11 +122,21 @@ module "ai_platform" {
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+<br/>
+
+**MLOps Platform**
+![KServe](https://img.shields.io/badge/KServe-000000?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square)
+
+**GPU Optimization**
+![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU_Operator-76B900?style=flat-square) ![DCGM](https://img.shields.io/badge/DCGM-000000?style=flat-square) ![MIG](https://img.shields.io/badge/MIG-76B900?style=flat-square)
+
 </div>
 
-<div align="center">
+---
 
 ### 🗄️ Databases & Data Engineering
+
+<div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -214,12 +197,7 @@ Production-grade **RAG platform** with advanced chunking, hybrid search, and mul
 - 📊 Comprehensive evaluation (RAGAS)
 - 💰 Cost optimization & semantic caching
 
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-339933?style=flat-square)
-![Weaviate](https://img.shields.io/badge/-Weaviate-00C7B7?style=flat-square)
+**🛠️ Tech:** Python • FastAPI • LangChain • Weaviate • vLLM
 
 </td>
 <td width="50%">
@@ -237,12 +215,7 @@ Multi-agent system with **agentic AI patterns**, tool use, planning & orchestrat
 - 💾 Multi-tier memory system
 - 🛡️ Sandboxed execution
 
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-339933?style=flat-square)
-![GPT4](https://img.shields.io/badge/-GPT4-412991?style=flat-square&logo=openai&logoColor=white)
-![Weaviate](https://img.shields.io/badge/-Weaviate-00C7B7?style=flat-square)
+**🛠️ Tech:** Python • LangGraph • GPT-4 • Claude • Weaviate
 
 </td>
 </tr>
@@ -262,11 +235,7 @@ End-to-end platform for **fine-tuning LLMs** with experiment tracking & deployme
 - 📈 MLflow + W&B tracking
 - 🚀 Auto-deployment to vLLM
 
-**🛠️ Tech Stack:**
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+**🛠️ Tech:** PyTorch • Transformers • PEFT • MLflow • vLLM
 
 </td>
 <td width="50%">
@@ -283,12 +252,7 @@ High-performance **Go backend** for LLM routing, caching & observability.
 - 🎫 Token-based rate limiting
 - 📊 Sub-10ms p99 latency
 
-**🛠️ Tech Stack:**
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**🛠️ Tech:** Go • gRPC • Redis • PostgreSQL • OpenTelemetry
 
 </td>
 </tr>
@@ -308,11 +272,7 @@ Production **K8s infrastructure** optimized for GPU workloads & model serving.
 - 📊 DCGM monitoring
 - 🔄 GitOps with ArgoCD
 
-**🛠️ Tech Stack:**
-
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+**🛠️ Tech:** Terraform • Kubernetes • Helm • ArgoCD • KServe
 
 </td>
 <td width="50%">
@@ -355,38 +315,31 @@ Production **K8s infrastructure** optimized for GPU workloads & model serving.
 
 <div align="center">
 
-```yaml
-current_focus:
-  - building: "Agentic workflows with multi-agent collaboration"
-  - optimizing: "RAG systems for production (latency, cost, quality)"
-  - exploring: "RLHF and DPO for LLM alignment"
-  - researching: "GPU cost optimization for model serving"
-  - implementing: "Responsible AI practices & bias mitigation"
-  
-continuous_learning:
-  - experimenting: ["Graph RAG", "Corrective RAG", "Constitutional AI"]
-  - writing: ["Production GenAI lessons", "LLMOps best practices"]
-  - contributing: ["vLLM", "LangChain", "Transformers"]
-  - implementing: ["RAPTOR", "HyDE", "Reflexion papers"]
-```
+### 🎯 Current Focus Areas
 
-</div>
+![Building](https://img.shields.io/badge/Building-Agentic_Workflows_%7C_Multi--Agent_Systems-8A2BE2?style=flat-square)
+![Optimizing](https://img.shields.io/badge/Optimizing-Production_RAG_%7C_Distributed_Systems-FF6E96?style=flat-square)
+![Exploring](https://img.shields.io/badge/Exploring-RLHF_%7C_DPO_%7C_Alignment-00D9FF?style=flat-square)
+![Researching](https://img.shields.io/badge/Researching-GPU_Cost_Optimization_%7C_System_Design-FFA500?style=flat-square)
+
+<br/>
 
 ### 🔬 Research Implementation
 
-| Paper/Technique | Status | Description |
-|-----------------|--------|-------------|
-| Graph RAG (Microsoft) | ✅ Implemented | Knowledge graph-enhanced retrieval |
-| HyDE (Hypothetical Docs) | ✅ Implemented | Hypothetical document embeddings |
-| Reflexion (Self-Reflection) | 🚧 In Progress | Self-reflection for agents |
-| Constitutional AI | 📋 Planned | AI alignment through principles |
+![Graph RAG](https://img.shields.io/badge/Graph_RAG-Implemented_✅-success?style=flat-square)
+![HyDE](https://img.shields.io/badge/HyDE-Implemented_✅-success?style=flat-square)
+![Reflexion](https://img.shields.io/badge/Reflexion-In_Progress_🚧-yellow?style=flat-square)
+![Constitutional AI](https://img.shields.io/badge/Constitutional_AI-Planned_📋-blue?style=flat-square)
 
-### 📚 Knowledge Sharing
+</div>
 
-- 📝 Writing about production AI/GenAI systems and lessons learned
-- 🎤 Open to speaking opportunities on LLMOps and LLM systems
-- 🤝 Contributing to open-source AI projects
-- 💬 Sharing insights on X/Twitter and LinkedIn
+### 📚 Continuous Learning
+
+- 🔬 **Experimenting** with cutting-edge techniques (Graph RAG, Corrective RAG, Constitutional AI)
+- 📝 **Writing** about lessons learned building GenAI systems at scale
+- 🛠️ **Contributing** to open-source AI projects (vLLM, LangChain, Transformers)
+- 🎓 **Implementing** recent AI research papers (RAPTOR, HyDE, Reflexion)
+- 💬 **Sharing** insights on prompt engineering, RAG optimization, and LLMOps
 
 ---
 
@@ -396,14 +349,11 @@ continuous_learning:
 
 ### 💬 I'm always open to interesting conversations and collaborations!
 
-```javascript
-const openTo = {
-  collaborations: ["Open source projects", "Research partnerships", "Technical consulting"],
-  discussions: ["LLM systems", "GenAI architecture", "MLOps best practices"],
-  opportunities: ["Speaking engagements", "Mentorship", "Technical writing"],
-  community: ["Knowledge sharing", "Code reviews", "Architecture feedback"]
-};
-```
+![Collaborations](https://img.shields.io/badge/Collaborations-Open_Source_%7C_Research_%7C_Consulting-FF6E96?style=flat-square)
+![Discussions](https://img.shields.io/badge/Discussions-System_Design_%7C_Backend_Arch_%7C_LLMs-8A2BE2?style=flat-square)
+![Community](https://img.shields.io/badge/Community-Knowledge_Sharing_%7C_Mentorship-00D9FF?style=flat-square)
+
+<br/>
 
 ### 🌐 Find Me On
 
@@ -417,17 +367,11 @@ const openTo = {
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 💝 Support My Work
 
-If you find my projects helpful, consider:
-
-⭐ **Starring** repositories you find useful  
-📢 **Sharing** projects with your network  
-🤝 **Contributing** to open-source initiatives  
-💬 **Connecting** for collaborations
+⭐ **Star** repositories you find useful • 📢 **Share** projects with your network • 🤝 **Contribute** to open-source • 💬 **Connect** for collaborations
 
 </div>
 

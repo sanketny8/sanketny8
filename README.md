@@ -24,11 +24,16 @@ I'm a **Senior AI Engineer & Backend Architect** specializing in building **high
 
 ### 🔭 What I'm Currently Focused On
 
-- 🏗️ Designing **event-driven microservices** for massive-scale LLM inference
-- ⚡ Optimizing **distributed system latency** (gRPC, NATS, caching strategies)
-- 🤖 Building **agentic workflows** with multi-agent collaboration
-- 🎯 Exploring **System Design patterns** for AI (CQRS, Sharding, Rate Limiting)
-- 💰 Developing **GPU cost optimization** strategies for model serving
+- 🏗️ Designing cloud-native, event-driven backends for large-scale LLM and generative AI workloads.
+- ⚡ Building low-latency, fault-tolerant distributed systems with smart batching, async I/O, and backpressure-aware routing.
+- 📦 Orchestrating GPU/CPU workloads on Kubernetes with autoscaling, bin-packing, and workload-aware scheduling.
+- 🤖 Developing agentic AI backends for multi-agent orchestration, tool use, and long-running workflows with reliable state.
+- 🧠 Implementing LLM serving infrastructure (streaming APIs, KV cache reuse, vLLM/TensorRT-LLM, quantization) for high throughput.
+- 🎯 Applying system design patterns for AI to production inference stacks.
+- 🔍 Building end-to-end observability for latency, error budgets, drift, and GPU utilization (metrics, tracing, structured logs, SLOs).
+- 💰 Engineering cost-efficient GPU infrastructure with autoscaling, right-sizing, spot capacity, and usage-based metering.
+- 🔐 Hardening AI systems for security and abuse (authn/z, rate limits, prompt injection defenses, secure data paths).
+- 🚀 Automating CI/CD and infrastructure-as-code for AI services using containers, GitOps, and Terraform-style workflows.
 
 ### 💡 My Philosophy
 

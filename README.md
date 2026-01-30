@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;Senior+AI+Engineer+%7C+Backend+System+Architect;Building+Production+LLM+Systems+%2B+Distributed+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;Senior+AI/Backend/Infra+Engineer+%7C+Backend+System+Architect;Building+Production+LLM+Systems+%2B+Distributed+Infrastructure" alt="Typing SVG" />
   
   <h3>🚀 Designing scalable distributed systems & production-grade AI platforms</h3>
   

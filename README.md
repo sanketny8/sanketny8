@@ -291,7 +291,7 @@ Production **K8s infrastructure** optimized for GPU workloads & model serving.
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is auto-updated by GitHub Actions -->
+1. ℹ️ Labeled issue [#1673](https://github.com/fastly/cli/issues/1673) in [fastly/cli](https://github.com/fastly/cli)
 <!--END_SECTION:activity-->
 
 ---

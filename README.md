@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+
+[![AI Daily Digest](https://img.shields.io/badge/AI_Daily_Digest-Trending_Papers_%7C_Repos_%7C_Blogs-8A2BE2?style=for-the-badge)](https://github.com/sanketny8/ai-daily-digest)
+
+</div>
+
 ---
 
 ## About Me

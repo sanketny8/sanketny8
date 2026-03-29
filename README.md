@@ -1,78 +1,55 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;Senior+AI/Backend/Infra+Engineer+%7C+Backend+System+Architect;Building+Production+LLM+Systems+%2B+Distributed+Infrastructure" alt="Typing SVG" />
-  
-  <h3>🚀 Designing scalable distributed systems & production-grade AI platforms</h3>
-  
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;AI+Engineer+%7C+LLM+Inference+%2B+Backend+%2B+Infra;Building+Production+LLM+Systems" alt="Typing SVG" />
+
   <a href="https://twitter.com/Ny8Sanket"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/ny8sanket"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sanketny8.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  
-  <br/><br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=sanketny8&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  ![GitHub Followers](https://img.shields.io/github/followers/sanketny8?style=for-the-badge&color=blue&label=FOLLOWERS&logo=github)
-  ![GitHub Stars](https://img.shields.io/github/stars/sanketny8?style=for-the-badge&color=yellow&label=TOTAL+STARS&logo=github)
-  
+
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **Senior AI Engineer & Backend Architect** specializing in building **high-scale distributed systems** and **production-grade GenAI platforms**. My expertise lies in bridging the gap between cutting-edge AI research and robust, scalable backend engineering.
+I'm an AI Engineer working at the intersection of **LLM inference systems**, **distributed backends**, and **cloud-native infrastructure**. I focus on taking models from research to production -- building the serving layers, orchestration pipelines, and GPU infrastructure that make LLM systems work at scale.
 
-### 🔭 What I'm Currently Focused On
+### What I'm Currently Working On
 
-- 🏗️ Designing cloud-native, event-driven backends for large-scale LLM and generative AI workloads.
-- ⚡ Building low-latency, fault-tolerant distributed systems with smart batching, async I/O, and backpressure-aware routing.
-- 📦 Orchestrating GPU/CPU workloads on Kubernetes with autoscaling, bin-packing, and workload-aware scheduling.
-- 🤖 Developing agentic AI backends for multi-agent orchestration, tool use, and long-running workflows with reliable state.
-- 🧠 Implementing LLM serving infrastructure (streaming APIs, KV cache reuse, vLLM/TensorRT-LLM, quantization) for high throughput.
-- 🎯 Applying system design patterns for AI to production inference stacks.
-- 🔍 Building end-to-end observability for latency, error budgets, drift, and GPU utilization (metrics, tracing, structured logs, SLOs).
-- 💰 Engineering cost-efficient GPU infrastructure with autoscaling, right-sizing, spot capacity, and usage-based metering.
-- 🔐 Hardening AI systems for security and abuse (authn/z, rate limits, prompt injection defenses, secure data paths).
-- 🚀 Automating CI/CD and infrastructure-as-code for AI services using containers, GitOps, and Terraform-style workflows.
-
-### 💡 My Philosophy
-
-I believe in **building systems that scale**, sharing knowledge openly, and treating infrastructure as code. Every system I design is built for resilience, observability, and performance.
-
-<details>
-<summary>📫 Want to collaborate?</summary>
-<br>
-
-**Open to:** System Design discussions • Backend architecture • Open source collaboration • Speaking opportunities • Code reviews
-
-</details>
+- Building low-latency, fault-tolerant backends for LLM and GenAI workloads
+- Designing LLM serving infrastructure (vLLM, TensorRT-LLM, KV cache optimization)
+- Orchestrating GPU workloads on Kubernetes with autoscaling and workload-aware scheduling
+- Developing agentic AI backends with multi-agent orchestration, tool use, and planning
+- Building MCP (Model Context Protocol) servers and integrations for tool-augmented LLMs
+- Building observability for AI systems (latency, drift, GPU utilization)
 
 ---
 
-## 💡 Core Competencies
+## Core Competencies
 
-### 🏗️ Distributed Systems & Backend Architecture
+### Distributed Systems & Backend
 
 ![System Design](https://img.shields.io/badge/System_Design-Microservices_%7C_Event--Driven_%7C_CQRS-FF4500?style=flat-square)
 ![Scalability](https://img.shields.io/badge/Scalability-Sharding_%7C_Load_Balancing_%7C_Caching-00BFFF?style=flat-square)
-![High Perf](https://img.shields.io/badge/Performance-gRPC_%7C_Async_IO_%7C_Concurrency-32CD32?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance-gRPC_%7C_Async_IO_%7C_Concurrency-32CD32?style=flat-square)
 ![Resilience](https://img.shields.io/badge/Resilience-Circuit_Breakers_%7C_Rate_Limiting_%7C_Retries-FFA500?style=flat-square)
 
-### 🤖 LLMs & GenAI Expertise
+### LLMs & GenAI
 
-![RAG](https://img.shields.io/badge/RAG_Systems-Advanced_Retrieval_%7C_Hybrid_Search_%7C_Reranking-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-Hybrid_Search_%7C_Reranking_%7C_Evaluation-8A2BE2?style=flat-square)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-LoRA_%7C_QLoRA_%7C_RLHF_%7C_DPO-FF6E96?style=flat-square)
-![Agents](https://img.shields.io/badge/LLM_Agents-Orchestration_%7C_Tool_Use_%7C_Planning-FFA500?style=flat-square)
-![VectorDB](https://img.shields.io/badge/Vector_DBs-Weaviate_%7C_Qdrant_%7C_Pinecone-4CAF50?style=flat-square)
+![Agents](https://img.shields.io/badge/LLM_Agents-Orchestration_%7C_Tool_Use_%7C_Planning_%7C_MCP-FFA500?style=flat-square)
+![Inference](https://img.shields.io/badge/Inference-vLLM_%7C_TGI_%7C_TensorRT--LLM-4CAF50?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol_%7C_Tool_Servers_%7C_Integrations-00CED1?style=flat-square)
 
 ---
 
-### 🛠️ Technical Expertise
+## Technical Stack
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 AI & GenAI Stack</h3>
+      <h3 align="center">AI / ML Stack</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -80,29 +57,28 @@ I believe in **building systems that scale**, sharing knowledge openly, and trea
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </div>
       <br />
-      <b>Frameworks:</b> Transformers • LlamaIndex • LangGraph<br />
-      <b>Inference:</b> vLLM • TGI • ONNX • Triton • TensorRT<br />
-      <b>Training:</b> PEFT • DeepSpeed • FSDP • bitsandbytes<br />
-      <b>Models:</b> GPT-4 • Claude 3 • Llama 3 • Mistral
+      <b>Frameworks:</b> Transformers, LlamaIndex, LangGraph<br />
+      <b>Agents:</b> MCP, CrewAI, AutoGen, Claude Agent SDK<br />
+      <b>Inference:</b> vLLM, TGI, ONNX, Triton, TensorRT-LLM<br />
+      <b>Training:</b> PEFT, DeepSpeed, bitsandbytes<br />
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Backend & Distributed Systems</h3>
+      <h3 align="center">Backend & Distributed Systems</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </div>
       <br />
-      <b>Core:</b> Microservices • Event-Driven • CQRS • DDD<br />
-      <b>Messaging:</b> NATS • Redis Streams • RabbitMQ<br />
-      <b>Protocol:</b> gRPC • GraphQL • REST • WebSockets<br />
-      <b>Observability:</b> OpenTelemetry • Prometheus • Jaeger
+      <b>Patterns:</b> Microservices, Event-Driven, CQRS<br />
+      <b>Protocols:</b> gRPC, REST, WebSockets<br />
+      <b>Observability:</b> OpenTelemetry, Prometheus, Jaeger<br />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Cloud & MLOps</h3>
+      <h3 align="center">Cloud & Infrastructure</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
@@ -110,97 +86,57 @@ I believe in **building systems that scale**, sharing knowledge openly, and trea
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </div>
       <br />
-      <b>Serving:</b> KServe • Ray • vLLM Operator • TorchServe<br />
-      <b>GPU Ops:</b> NVIDIA Operator • DCGM • MIG • MPS<br />
-      <b>GitOps:</b> ArgoCD • Flux • Helm • GitHub Actions<br />
-      <b>Clouds:</b> AWS • GCP • Azure • Lambda Labs
+      <b>Serving:</b> KServe, Ray, vLLM Operator<br />
+      <b>GPU Ops:</b> NVIDIA Operator, DCGM, MIG<br />
+      <b>GitOps:</b> ArgoCD, Helm, GitHub Actions<br />
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🗄️ Data Engineering</h3>
+      <h3 align="center">Data & Storage</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/Weaviate-00C7B7?style=flat-square" />
         <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
       </div>
       <br />
-      <b>Vector DBs:</b> Pinecone • Milvus • Chroma • pgvector<br />
-      <b>Databases:</b> MongoDB • Elasticsearch • DynamoDB<br />
-      <b>Processing:</b> Spark • Airflow • dbt • Kafka Streams<br />
-      <b>Storage:</b> S3 • MinIO • Delta Lake • Iceberg
+      <b>Vector DBs:</b> Weaviate, Qdrant, Pinecone, pgvector<br />
+      <b>Databases:</b> PostgreSQL, MongoDB, Redis<br />
+      <b>Processing:</b> Kafka Streams, Airflow<br />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics & Activity
-
-<div align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanketny8&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Statistics" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanketny8&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=320&hide=jupyter+notebook" alt="Top Languages"/>
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sanketny8&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak"/>
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketny8&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=141321&color=A29BFE&line=FF6E96&point=00D9FF" alt="Activity Graph"/>
-  
-</div>
-
----
-
-## 🎯 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔍 [Enterprise RAG System](https://github.com/sanketny8/enterprise-rag-system)
-
-[![Stars](https://img.shields.io/github/stars/sanketny8/enterprise-rag-system?style=social)](https://github.com/sanketny8/enterprise-rag-system)
-[![Forks](https://img.shields.io/github/forks/sanketny8/enterprise-rag-system?style=social)](https://github.com/sanketny8/enterprise-rag-system)
+### [Enterprise RAG System](https://github.com/sanketny8/enterprise-rag-system)
 
 Production-grade **RAG platform** with advanced chunking, hybrid search, and multi-LLM support.
 
-**🎯 Key Features:**
-- ⚡ Hybrid retrieval with cross-encoder reranking
-- 🔀 Multi-LLM router (OpenAI, Anthropic, local)
-- 📊 Comprehensive evaluation (RAGAS)
-- 💰 Cost optimization & semantic caching
+- Hybrid retrieval with cross-encoder reranking
+- Multi-LLM router (OpenAI, Anthropic, local)
+- Comprehensive evaluation (RAGAS)
+- Semantic caching for cost optimization
 
-**🛠️ Tech:** Python • FastAPI • LangChain • Weaviate • vLLM
+**Tech:** Python · FastAPI · LangChain · Weaviate · vLLM
 
 </td>
 <td width="50%">
 
-### 🤖 [Autonomous LLM Agents](https://github.com/sanketny8/autonomous-llm-agents)
+### [Autonomous LLM Agents](https://github.com/sanketny8/autonomous-llm-agents)
 
-[![Stars](https://img.shields.io/github/stars/sanketny8/autonomous-llm-agents?style=social)](https://github.com/sanketny8/autonomous-llm-agents)
-[![Forks](https://img.shields.io/github/forks/sanketny8/autonomous-llm-agents?style=social)](https://github.com/sanketny8/autonomous-llm-agents)
+Multi-agent system with **agentic AI patterns**, tool use, planning & MCP integration.
 
-Multi-agent system with **agentic AI patterns**, tool use, planning & orchestration.
+- ReAct, plan-and-execute, and reflection patterns
+- MCP server integration for external tool access
+- Dynamic tool registry with multi-tier memory
+- Sandboxed execution with state management
 
-**🎯 Key Features:**
-- 🧠 ReAct pattern with self-reflection
-- 🔧 Dynamic tool registry
-- 💾 Multi-tier memory system
-- 🛡️ Sandboxed execution
-
-**🛠️ Tech:** Python • LangGraph • GPT-4 • Claude • Weaviate
+**Tech:** Python · LangGraph · MCP · GPT-4 · Claude · Weaviate
 
 </td>
 </tr>
@@ -208,36 +144,30 @@ Multi-agent system with **agentic AI patterns**, tool use, planning & orchestrat
 <tr>
 <td width="50%">
 
-### 🎓 [LLM Fine-tuning Platform](https://github.com/sanketny8/llm-finetuning-platform)
-
-[![Stars](https://img.shields.io/github/stars/sanketny8/llm-finetuning-platform?style=social)](https://github.com/sanketny8/llm-finetuning-platform)
+### [LLM Fine-tuning Platform](https://github.com/sanketny8/llm-finetuning-platform)
 
 End-to-end platform for **fine-tuning LLMs** with experiment tracking & deployment.
 
-**🎯 Key Features:**
-- 🔧 LoRA/QLoRA fine-tuning
-- 📊 Comprehensive evaluation
-- 📈 MLflow + W&B tracking
-- 🚀 Auto-deployment to vLLM
+- LoRA/QLoRA fine-tuning
+- Comprehensive evaluation suite
+- MLflow + W&B tracking
+- Auto-deployment to vLLM
 
-**🛠️ Tech:** PyTorch • Transformers • PEFT • MLflow • vLLM
+**Tech:** PyTorch · Transformers · PEFT · MLflow · vLLM
 
 </td>
 <td width="50%">
 
-### ⚡ [AI Gateway Microservices](https://github.com/sanketny8/ai-gateway-microservices)
-
-[![Stars](https://img.shields.io/github/stars/sanketny8/ai-gateway-microservices?style=social)](https://github.com/sanketny8/ai-gateway-microservices)
+### [AI Gateway Microservices](https://github.com/sanketny8/ai-gateway-microservices)
 
 High-performance **Go backend** for LLM routing, caching & observability.
 
-**🎯 Key Features:**
-- 🔀 Multi-provider routing
-- ⚡ Semantic caching
-- 🎫 Token-based rate limiting
-- 📊 Sub-10ms p99 latency
+- Multi-provider routing with failover
+- Semantic caching
+- Token-based rate limiting
+- OpenTelemetry instrumentation
 
-**🛠️ Tech:** Go • gRPC • Redis • PostgreSQL • OpenTelemetry
+**Tech:** Go · gRPC · Redis · PostgreSQL · OpenTelemetry
 
 </td>
 </tr>
@@ -245,34 +175,30 @@ High-performance **Go backend** for LLM routing, caching & observability.
 <tr>
 <td width="50%">
 
-### 🏗️ [GPU Kubernetes Platform](https://github.com/sanketny8/gpu-kubernetes-platform)
-
-[![Stars](https://img.shields.io/github/stars/sanketny8/gpu-kubernetes-platform?style=social)](https://github.com/sanketny8/gpu-kubernetes-platform)
+### [GPU Kubernetes Platform](https://github.com/sanketny8/gpu-kubernetes-platform)
 
 Production **K8s infrastructure** optimized for GPU workloads & model serving.
 
-**🎯 Key Features:**
-- 🎮 GPU node pools (T4, A10G, A100)
-- 🚀 KServe + vLLM operator
-- 📊 DCGM monitoring
-- 🔄 GitOps with ArgoCD
+- GPU node pools (T4, A10G, A100)
+- KServe + vLLM operator
+- DCGM monitoring
+- GitOps with ArgoCD
 
-**🛠️ Tech:** Terraform • Kubernetes • Helm • ArgoCD • KServe
+**Tech:** Terraform · Kubernetes · Helm · ArgoCD · KServe
 
 </td>
 <td width="50%">
 
-### 📚 More Projects
+### [LLM Engineering Fundamentals](https://github.com/sanketny8/llm-engineering-fundamentals)
 
-**🔗 Explore all my repositories:**
+**Complete transformer from scratch** -- tokenization to generation, pure NumPy.
 
-[![GitHub Repos](https://img.shields.io/badge/View%20All%20Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketny8?tab=repositories)
+- BPE tokenizer, RoPE, ALiBi embeddings
+- Multi-head attention with causal masking
+- Beam search, top-k, nucleus sampling
+- 148+ passing tests across 10 projects
 
-**⭐ Additional Projects:**
-- Vector DB Benchmarks
-- LLM Evaluation Framework
-- Prompt Engineering Library
-- AI Cost Optimizer
+**Tech:** Python · NumPy
 
 </td>
 </tr>
@@ -280,67 +206,34 @@ Production **K8s infrastructure** optimized for GPU workloads & model serving.
 
 ---
 
-## 📝 Latest Blog Posts
+## Research
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section is auto-updated by GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
+### Exploring Attention Variants in Minimal GPT
 
----
+Systematic comparison of **6 attention mechanisms** across 3 rounds of experiments in a zero-dependency GPT implementation (~12K parameters). Tested gated value attention, relational scoring, salience weighting, context-augmented attention, and difference attention. The **gated-context variant** consistently outperformed standard attention on character-level generation.
 
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1673](https://github.com/fastly/cli/issues/1673) in [fastly/cli](https://github.com/fastly/cli)
-<!--END_SECTION:activity-->
+[Code & Results →](https://github.com/sanketny8/MyProfile)
 
 ---
 
-## 📈 Learning Journey & Current Focus
+## Current Focus
 
 <div align="center">
 
-### 🎯 Current Focus Areas
-
-![Building](https://img.shields.io/badge/Building-Agentic_Workflows_%7C_Multi--Agent_Systems-8A2BE2?style=flat-square)
-![Optimizing](https://img.shields.io/badge/Optimizing-Production_RAG_%7C_Distributed_Systems-FF6E96?style=flat-square)
-![Exploring](https://img.shields.io/badge/Exploring-RLHF_%7C_DPO_%7C_Alignment-00D9FF?style=flat-square)
-![Researching](https://img.shields.io/badge/Researching-GPU_Cost_Optimization_%7C_System_Design-FFA500?style=flat-square)
-
-<br/>
-
-### 🔬 Research Implementation
-
-![Graph RAG](https://img.shields.io/badge/Graph_RAG-Implemented_✅-success?style=flat-square)
-![HyDE](https://img.shields.io/badge/HyDE-Implemented_✅-success?style=flat-square)
-![Reflexion](https://img.shields.io/badge/Reflexion-In_Progress_🚧-yellow?style=flat-square)
-![Constitutional AI](https://img.shields.io/badge/Constitutional_AI-Planned_📋-blue?style=flat-square)
+![Building](https://img.shields.io/badge/Building-Agentic_Workflows_%7C_Multi--Agent_Systems_%7C_MCP-8A2BE2?style=flat-square)
+![Optimizing](https://img.shields.io/badge/Optimizing-LLM_Inference_%7C_Serving_Infrastructure-FF6E96?style=flat-square)
+![Exploring](https://img.shields.io/badge/Exploring-Attention_Mechanisms_%7C_Transformer_Internals-00D9FF?style=flat-square)
+![Designing](https://img.shields.io/badge/Designing-GPU_Infrastructure_%7C_Cost_Optimization-FFA500?style=flat-square)
 
 </div>
 
-### 📚 Continuous Learning
-
-- 🔬 **Experimenting** with cutting-edge techniques (Graph RAG, Corrective RAG, Constitutional AI)
-- 📝 **Writing** about lessons learned building GenAI systems at scale
-- 🛠️ **Contributing** to open-source AI projects (vLLM, LangChain, Transformers)
-- 🎓 **Implementing** recent AI research papers (RAPTOR, HyDE, Reflexion)
-- 💬 **Sharing** insights on prompt engineering, RAG optimization, and LLMOps
+**[AI Daily Digest →](https://github.com/sanketny8/ai-daily-digest)** — Auto-curated trending papers, blogs & tweets, updated daily
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect
 
 <div align="center">
-
-### 💬 I'm always open to interesting conversations and collaborations!
-
-![Collaborations](https://img.shields.io/badge/Collaborations-Open_Source_%7C_Research_%7C_Consulting-FF6E96?style=flat-square)
-![Discussions](https://img.shields.io/badge/Discussions-System_Design_%7C_Backend_Arch_%7C_LLMs-8A2BE2?style=flat-square)
-![Community](https://img.shields.io/badge/Community-Knowledge_Sharing_%7C_Mentorship-00D9FF?style=flat-square)
-
-<br/>
-
-### 🌐 Find Me On
 
 <a href="https://twitter.com/Ny8Sanket">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -352,23 +245,6 @@ Production **K8s infrastructure** optimized for GPU workloads & model serving.
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<br/><br/>
+**Open to:** System design discussions · Backend architecture · Open source collaboration · Code reviews
 
-### 💝 Support My Work
-
-⭐ **Star** repositories you find useful • 📢 **Share** projects with your network • 🤝 **Contribute** to open-source • 💬 **Connect** for collaborations
-
-</div>
-
----
-
-<div align="center">
-  
-  **"Building the future of AI, one production system at a time"**
-  
-  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  ![Built for Production](https://img.shields.io/badge/Built%20for-Production-green?style=for-the-badge)
-  
-  ⭐️ From [sanketny8](https://github.com/sanketny8) with 💜
-  
 </div>

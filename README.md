@@ -261,4 +261,267 @@ Systematic comparison of **6 attention mechanisms** in a zero-dependency GPT imp
 - **Portfolio:** [sanketny8.github.io](https://sanketny8.github.io)
 - **Daily Digest:** [ai-daily-digest](https://github.com/sanketny8/ai-daily-digest) -- auto-curated trending AI papers, repos & blogs
 
-**Open to:** System design discussions, backend architecture, open source collaboration, code reviews
+### 🔍 [Enterprise RAG System](https://github.com/sanketny8/enterprise-rag-system)
+
+[![Stars](https://img.shields.io/github/stars/sanketny8/enterprise-rag-system?style=social)](https://github.com/sanketny8/enterprise-rag-system)
+[![Forks](https://img.shields.io/github/forks/sanketny8/enterprise-rag-system?style=social)](https://github.com/sanketny8/enterprise-rag-system)
+
+Production-grade **RAG platform** with advanced chunking, hybrid search, and multi-LLM support.
+
+**🎯 Key Features:**
+- ⚡ Hybrid retrieval with cross-encoder reranking
+- 🔀 Multi-LLM router (OpenAI, Anthropic, local)
+- 📊 Comprehensive evaluation (RAGAS)
+- 💰 Cost optimization & semantic caching
+
+**🛠️ Tech:** Python • FastAPI • LangChain • Weaviate • vLLM
+
+</td>
+<td width="50%">
+
+### 🤖 [Autonomous LLM Agents](https://github.com/sanketny8/autonomous-llm-agents)
+
+[![Stars](https://img.shields.io/github/stars/sanketny8/autonomous-llm-agents?style=social)](https://github.com/sanketny8/autonomous-llm-agents)
+[![Forks](https://img.shields.io/github/forks/sanketny8/autonomous-llm-agents?style=social)](https://github.com/sanketny8/autonomous-llm-agents)
+
+Multi-agent system with **agentic AI patterns**, tool use, planning & orchestration.
+
+**🎯 Key Features:**
+- 🧠 ReAct pattern with self-reflection
+- 🔧 Dynamic tool registry
+- 💾 Multi-tier memory system
+- 🛡️ Sandboxed execution
+
+**🛠️ Tech:** Python • LangGraph • GPT-4 • Claude • Weaviate
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 [LLM Fine-tuning Platform](https://github.com/sanketny8/llm-finetuning-platform)
+
+[![Stars](https://img.shields.io/github/stars/sanketny8/llm-finetuning-platform?style=social)](https://github.com/sanketny8/llm-finetuning-platform)
+
+End-to-end platform for **fine-tuning LLMs** with experiment tracking & deployment.
+
+**🎯 Key Features:**
+- 🔧 LoRA/QLoRA fine-tuning
+- 📊 Comprehensive evaluation
+- 📈 MLflow + W&B tracking
+- 🚀 Auto-deployment to vLLM
+
+**🛠️ Tech:** PyTorch • Transformers • PEFT • MLflow • vLLM
+
+</td>
+<td width="50%">
+
+### ⚡ [AI Gateway Microservices](https://github.com/sanketny8/ai-gateway-microservices)
+
+[![Stars](https://img.shields.io/github/stars/sanketny8/ai-gateway-microservices?style=social)](https://github.com/sanketny8/ai-gateway-microservices)
+
+High-performance **Go backend** for LLM routing, caching & observability.
+
+**🎯 Key Features:**
+- 🔀 Multi-provider routing
+- ⚡ Semantic caching
+- 🎫 Token-based rate limiting
+- 📊 Sub-10ms p99 latency
+
+**🛠️ Tech:** Go • gRPC • Redis • PostgreSQL • OpenTelemetry
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ [GPU Kubernetes Platform](https://github.com/sanketny8/gpu-kubernetes-platform)
+
+[![Stars](https://img.shields.io/github/stars/sanketny8/gpu-kubernetes-platform?style=social)](https://github.com/sanketny8/gpu-kubernetes-platform)
+
+Production **K8s infrastructure** optimized for GPU workloads & model serving.
+
+**🎯 Key Features:**
+- 🎮 GPU node pools (T4, A10G, A100)
+- 🚀 KServe + vLLM operator
+- 📊 DCGM monitoring
+- 🔄 GitOps with ArgoCD
+
+**🛠️ Tech:** Terraform • Kubernetes • Helm • ArgoCD • KServe
+
+</td>
+<td width="50%">
+
+### 📚 More Projects
+
+**🔗 Explore all my repositories:**
+
+[![GitHub Repos](https://img.shields.io/badge/View%20All%20Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketny8?tab=repositories)
+
+**⭐ Additional Projects:**
+- Vector DB Benchmarks
+- LLM Evaluation Framework
+- Prompt Engineering Library
+- AI Cost Optimizer
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section is auto-updated by GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. ℹ️ Labeled issue [#1673](https://github.com/fastly/cli/issues/1673) in [fastly/cli](https://github.com/fastly/cli)
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 Learning Journey & Current Focus
+
+<div align="center">
+
+### 🎯 Current Focus Areas
+
+![Building](https://img.shields.io/badge/Building-Agentic_Workflows_%7C_Multi--Agent_Systems-8A2BE2?style=flat-square)
+![Optimizing](https://img.shields.io/badge/Optimizing-Production_RAG_%7C_Distributed_Systems-FF6E96?style=flat-square)
+![Exploring](https://img.shields.io/badge/Exploring-RLHF_%7C_DPO_%7C_Alignment-00D9FF?style=flat-square)
+![Researching](https://img.shields.io/badge/Researching-GPU_Cost_Optimization_%7C_System_Design-FFA500?style=flat-square)
+
+<br/>
+
+### 🔬 Research Implementation
+
+![Graph RAG](https://img.shields.io/badge/Graph_RAG-Implemented_✅-success?style=flat-square)
+![HyDE](https://img.shields.io/badge/HyDE-Implemented_✅-success?style=flat-square)
+![Reflexion](https://img.shields.io/badge/Reflexion-In_Progress_🚧-yellow?style=flat-square)
+![Constitutional AI](https://img.shields.io/badge/Constitutional_AI-Planned_📋-blue?style=flat-square)
+
+</div>
+
+### 📚 Continuous Learning
+
+- 🔬 **Experimenting** with cutting-edge techniques (Graph RAG, Corrective RAG, Constitutional AI)
+- 📝 **Writing** about lessons learned building GenAI systems at scale
+- 🛠️ **Contributing** to open-source AI projects (vLLM, LangChain, Transformers)
+- 🎓 **Implementing** recent AI research papers (RAPTOR, HyDE, Reflexion)
+- 💬 **Sharing** insights on prompt engineering, RAG optimization, and LLMOps
+
+---
+
+## 🔖 AI Bookmarks
+
+Curated AI resources, tools, and references — open for everyone.
+
+### LLM Courses & Learning
+| Resource | Description |
+|----------|-------------|
+| [LLM Course](https://github.com/mlabonne/llm-course) | Comprehensive course to get into LLMs with roadmaps and Colab notebooks |
+| [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch |
+| [ML Engineering Open Book](https://github.com/stas00/ml-engineering) | ML engineering best practices and infrastructure |
+| [Fine-Tuning LLMs Guide](https://arxiv.org/html/2408.13296v1) | Exhaustive review of fine-tuning technologies and best practices |
+| [Zero to Mastery PyTorch](https://www.learnpytorch.io/) | Learn PyTorch for deep learning from zero to mastery |
+| [Dive into Deep Learning](https://d2l.ai/) | Interactive deep learning book with code, math, and discussions |
+
+### GPU Programming & CUDA
+| Resource | Description |
+|----------|-------------|
+| [LeetGPU](https://leetgpu.com/) | Practice GPU programming with hands-on challenges |
+| [100 Days of GPU Programming](https://github.com/julienokumu/100DaysOfGPUProgramming) | Day-by-day GPU programming challenge |
+| [GPU Glossary (Modal)](https://modal.com/gpu-glossary/readme) | Comprehensive GPU computing glossary |
+| [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) | Official NVIDIA CUDA programming guide |
+| [PyTorch Internals](https://blog.ezyang.com/2019/05/pytorch-internals/) | Deep dive into PyTorch's internal architecture |
+| [Making Deep Learning Go Brrrr](https://horace.io/brrr_intro.html) | First principles GPU performance optimization |
+
+### AI Tools & Inference
+| Resource | Description |
+|----------|-------------|
+| [vLLM](https://github.com/vllm-project/vllm) | High-throughput LLM inference and serving engine |
+| [Petals](https://petals.dev/) | Run LLMs at home, BitTorrent-style |
+| [turbopuffer](https://turbopuffer.com/) | Fast vector database for search and retrieval |
+| [ML Resources](https://ml-resources.vercel.app/) | Curated ML tools and references |
+| [Deep-ML](https://www.deep-ml.com/) | Practice platform for ML problems |
+| [Modal Blog](https://modal.com/blog) | Engineering blog on serverless GPU infrastructure |
+
+### Agents & Architectures
+| Resource | Description |
+|----------|-------------|
+| [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | Microsoft's open course on building AI agents |
+| [LangChain Agents from Scratch](https://github.com/langchain-ai/agents-from-scratch) | Build LLM agents with LangChain/LangGraph |
+| [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Visual explanation of the Transformer architecture |
+| [Berkeley LLM Agents Course](https://rdi.berkeley.edu/llm-agents/f24) | UC Berkeley CS 194/294-196 on LLM Agents |
+| [Stanford Self-Improving AI Agents](https://cs329a.stanford.edu/) | Stanford CS329A course |
+
+### Research & Blogs
+| Resource | Description |
+|----------|-------------|
+| [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/) | Math behind transformer inference performance |
+| [Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) | Illustrated quantization guide |
+| [StreamingLLM](https://hanlab.mit.edu/blog/streamingllm) | Attention sinks for stable long-context streaming |
+| [DeepSeek Papers](https://huggingface.co/collections/Presidentlin/deepseek-papers-674c536aa6acddd9bc98c2ac) | Curated DeepSeek research papers |
+| [Sander Dieleman's Blog](https://sander.ai/posts/) | Generative modelling and deep learning research |
+
+### Robotics & Embodied AI
+| Resource | Description |
+|----------|-------------|
+| [LeRobot (Hugging Face)](https://github.com/huggingface/lerobot) | Open-source AI for robotics |
+| [Gradient Robotics](https://cheaprobotarm.com/) | Affordable robot arm for experimentation |
+| [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | Curated LLM-powered robotics resources |
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 💬 I'm always open to interesting conversations and collaborations!
+
+![Collaborations](https://img.shields.io/badge/Collaborations-Open_Source_%7C_Research_%7C_Consulting-FF6E96?style=flat-square)
+![Discussions](https://img.shields.io/badge/Discussions-System_Design_%7C_Backend_Arch_%7C_LLMs-8A2BE2?style=flat-square)
+![Community](https://img.shields.io/badge/Community-Knowledge_Sharing_%7C_Mentorship-00D9FF?style=flat-square)
+
+<br/>
+
+### 🌐 Find Me On
+
+<a href="https://twitter.com/Ny8Sanket">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://linkedin.com/in/ny8sanket">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://sanketny8.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+### 💝 Support My Work
+
+⭐ **Star** repositories you find useful • 📢 **Share** projects with your network • 🤝 **Contribute** to open-source • 💬 **Connect** for collaborations
+
+</div>
+
+---
+
+<div align="center">
+  
+  **"Building the future of AI, one production system at a time"**
+  
+  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+  ![Built for Production](https://img.shields.io/badge/Built%20for-Production-green?style=for-the-badge)
+  
+  ⭐️ From [sanketny8](https://github.com/sanketny8) with 💜
+  
+</div>

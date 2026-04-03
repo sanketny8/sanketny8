@@ -260,5 +260,6 @@ Systematic comparison of **6 attention mechanisms** in a zero-dependency GPT imp
 - **LinkedIn:** [ny8sanket](https://linkedin.com/in/ny8sanket)
 - **Portfolio:** [sanketny8.github.io](https://sanketny8.github.io)
 - **Daily Digest:** [ai-daily-digest](https://github.com/sanketny8/ai-daily-digest) -- auto-curated trending AI papers, repos & blogs
+- **AI Bookmarks:** [sanketny8.github.io/ai-bookmarks](https://sanketny8.github.io/ai-bookmarks/) -- curated AI resources synced from browser
 
 **Open to:** System design discussions, backend architecture, open source collaboration, code reviews

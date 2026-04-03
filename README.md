@@ -7,6 +7,7 @@
   <a href="https://sanketny8.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
   [![AI Daily Digest](https://img.shields.io/badge/AI_Daily_Digest-Trending_Papers_%7C_Repos_%7C_Blogs-8A2BE2?style=for-the-badge)](https://github.com/sanketny8/ai-daily-digest)
+
   [![AI Bookmarks](https://img.shields.io/badge/AI_Bookmarks-Curated_Resources_%7C_249%2B_Links-FF6E96?style=for-the-badge)](https://sanketny8.github.io/ai-bookmarks/)
 
 </div>

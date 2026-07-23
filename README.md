@@ -1,13 +1,16 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;AI+Engineer+%7C+LLM+Inference+%2B+Backend+%2B+Infra;Building+Production+LLM+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Nyayadhish;Agentic+AI+Engineer+%7C+Multi-Agent+Systems+%2B+MCP;Backend+Engineer+%7C+Distributed+Systems+%2B+APIs;AI+Engineer+%7C+LLM+Inference+%2B+Infra;Building+Production+LLM+%26+Agentic+Systems" alt="Typing SVG" />
+
+  <p><em>Agentic AI &bull; Backend &bull; LLM Infrastructure &mdash; I build autonomous agent systems and the distributed backends that run them in production.</em></p>
 
   <a href="https://twitter.com/Ny8Sanket"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/ny8sanket"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sanketny8.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
-  [![AI Daily Digest](https://img.shields.io/badge/AI_Daily_Digest-Trending_Papers_%7C_Repos_%7C_Blogs-8A2BE2?style=for-the-badge)](https://github.com/sanketny8/ai-daily-digest)
+  <br><br>
 
+  [![AI Daily Digest](https://img.shields.io/badge/AI_Daily_Digest-Trending_Papers_%7C_Repos_%7C_Blogs-8A2BE2?style=for-the-badge)](https://github.com/sanketny8/ai-daily-digest)
   [![AI Bookmarks](https://img.shields.io/badge/AI_Bookmarks-Curated_Resources_%7C_249%2B_Links-FF6E96?style=for-the-badge)](https://sanketny8.github.io/ai-bookmarks/)
 
 </div>
@@ -16,252 +19,169 @@
 
 ## About Me
 
-I'm an AI Engineer working at the intersection of **LLM inference systems**, **distributed backends**, and **cloud-native infrastructure**. I focus on taking models from research to production -- building the serving layers, orchestration pipelines, and GPU infrastructure that make LLM systems work at scale.
+I'm an **Agentic AI, Backend & AI Engineer** working at the intersection of **autonomous agent systems**, **distributed backends**, **LLM inference**, and **cloud-native infrastructure**. I design and ship agentic systems -- multi-agent orchestration, tool use, planning, and memory -- backed by high-throughput, fault-tolerant services (Go, FastAPI, gRPC, Kafka) and the serving layers, pipelines, and GPU infrastructure that make them reliable at scale.
 
 **Currently working on:**
 
-- Low-latency, fault-tolerant backends for LLM and GenAI workloads
+- Agentic AI systems -- multi-agent orchestration, planning, tool use, reflection, and long-horizon task execution
+- MCP (Model Context Protocol) servers and integrations for tool-augmented, context-aware agents
+- Autonomous agent memory -- short-term, episodic (vector), and long-term (knowledge graph) context management
+- Low-latency, fault-tolerant backends for LLM, GenAI, and agentic workloads
 - LLM serving infrastructure -- vLLM, TensorRT-LLM, KV cache optimization
 - GPU workload orchestration on Kubernetes with autoscaling and workload-aware scheduling
-- Agentic AI backends with multi-agent orchestration, tool use, and planning
-- MCP (Model Context Protocol) servers and integrations for tool-augmented LLMs
-- Observability for AI systems -- latency, drift, GPU utilization
 
 ---
 
-<details>
-<summary><strong>Core Competencies</strong> &mdash; Systems, LLMs, Infrastructure</summary>
+## Tech Stack
 
-<br>
+**Agentic AI & LLMs**
 
-**Distributed Systems & Backend**
-
-- **System Design** -- microservices, event-driven architecture, CQRS, domain-driven design
-- **Scalability** -- horizontal sharding, consistent hashing, load balancing, distributed caching (Redis, Memcached)
-- **Performance** -- gRPC and protobuf for low-latency communication, async I/O, connection pooling, concurrency patterns
-- **Resilience** -- circuit breakers, bulkhead isolation, rate limiting, exponential backoff, graceful degradation
-- **Observability** -- distributed tracing (OpenTelemetry, Jaeger), metrics (Prometheus, Grafana), structured logging
-
-**LLMs & GenAI**
-
-- **RAG Systems** -- hybrid retrieval (dense + sparse), cross-encoder reranking, query decomposition, evaluation with RAGAS
-- **Fine-tuning** -- LoRA, QLoRA, RLHF, DPO, dataset curation, evaluation pipelines, experiment tracking (MLflow, W&B)
-- **LLM Agents** -- multi-agent orchestration, ReAct and plan-and-execute patterns, tool use, sandboxed code execution
-- **MCP** -- Model Context Protocol server development, tool registries, context injection, integration with Claude and GPT
-- **Inference Optimization** -- vLLM, TGI, TensorRT-LLM, KV cache tuning, continuous batching, speculative decoding, quantization (GPTQ, AWQ)
-
-</details>
-
----
-
-<details>
-<summary><strong>Technical Stack</strong> &mdash; Languages, Frameworks, Infrastructure</summary>
-
-<br>
-
-**AI / ML**
-
-- **Languages:** Python (primary), some C++ for performance-critical paths
-- **Frameworks:** PyTorch, Transformers, LlamaIndex, LangChain, LangGraph
-- **Agents:** MCP servers, CrewAI, AutoGen, Claude Agent SDK, PydanticAI
-- **Inference:** vLLM (PagedAttention), TGI, ONNX Runtime, Triton Inference Server, TensorRT-LLM
-- **Training:** PEFT (LoRA/QLoRA), DeepSpeed ZeRO, bitsandbytes quantization, Unsloth
-- **Evaluation:** RAGAS, LangSmith, custom eval harnesses
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-0A7BBB?style=flat-square)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **Backend & Distributed Systems**
 
-- **Languages:** Go (high-throughput services), Python (FastAPI, async services)
-- **Messaging:** Apache Kafka (event streaming), Redis Streams, RabbitMQ
-- **Protocols:** gRPC with protobuf, REST/OpenAPI, WebSockets for real-time
-- **Patterns:** Microservices, event-driven, CQRS, saga pattern for distributed transactions
-- **Observability:** OpenTelemetry (traces + metrics), Prometheus, Grafana, Jaeger, structured JSON logging
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244B5A?style=flat-square&logo=google&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Cloud & Infrastructure**
 
-- **Orchestration:** Kubernetes (EKS, GKE), Helm charts, Kustomize
-- **IaC:** Terraform for multi-cloud provisioning, Pulumi
-- **Cloud:** AWS (primary -- EC2, EKS, S3, SageMaker), GCP (GKE, Vertex AI)
-- **Model Serving:** KServe, Ray Serve, vLLM Operator, Triton
-- **GPU Ops:** NVIDIA GPU Operator, DCGM exporter, MIG partitioning, node affinity for GPU types (T4, A10G, A100)
-- **GitOps:** ArgoCD for continuous deployment, GitHub Actions for CI
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 **Data & Storage**
 
-- **Vector DBs:** Weaviate (primary), Qdrant, Pinecone, pgvector -- used for RAG, semantic search, similarity retrieval
-- **Databases:** PostgreSQL (OLTP), MongoDB (document store), Redis (caching + session store)
-- **Processing:** Kafka Streams for real-time ETL, Apache Airflow for batch orchestration
-- **Search:** Elasticsearch for hybrid retrieval (BM25 + dense vectors)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+<details>
+<summary><strong>Core Competencies</strong> &mdash; deeper breakdown of what I build</summary>
+
+<br>
+
+**Agentic AI**
+
+- **Agent architectures** -- ReAct, plan-and-execute with dynamic replanning, reflection/self-critique loops, tree-of-thought
+- **Multi-agent orchestration** -- supervisor/worker patterns, specialized sub-agents, inter-agent messaging, shared scratchpads
+- **Tool use** -- dynamic tool registries, schema/function calling, permission-scoped and sandboxed execution
+- **Agent memory** -- short-term buffers, episodic vector memory, long-term knowledge graphs, context compaction
+- **MCP (Model Context Protocol)** -- server development, tool registries, context injection, Claude & GPT integrations
+- **Evaluation & safety** -- trajectory/trace evaluation, guardrails, loop/cost budgeting, failure recovery
+
+**LLMs & GenAI**
+
+- **RAG systems** -- hybrid retrieval (dense + sparse), cross-encoder reranking, query decomposition, RAGAS evaluation
+- **Fine-tuning** -- LoRA, QLoRA, RLHF, DPO, dataset curation, experiment tracking (MLflow, W&B)
+- **Inference optimization** -- vLLM, TGI, TensorRT-LLM, KV cache tuning, continuous batching, speculative decoding, quantization (GPTQ, AWQ)
+
+**Distributed Systems & Backend**
+
+- **System design** -- microservices, event-driven architecture, CQRS, domain-driven design
+- **Scalability** -- horizontal sharding, consistent hashing, load balancing, distributed caching
+- **Resilience** -- circuit breakers, bulkhead isolation, rate limiting, exponential backoff, graceful degradation
+- **Observability** -- distributed tracing (OpenTelemetry, Jaeger), metrics (Prometheus, Grafana), structured logging
 
 </details>
 
 ---
 
-<details open>
-<summary><strong>Featured Projects</strong></summary>
+## Featured Projects
 
-<br>
+### Agentic AI
 
-<details>
-<summary><strong>Enterprise RAG System</strong> &mdash; Production-grade retrieval-augmented generation platform</summary>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Autonomous LLM Agents](https://github.com/sanketny8/autonomous-llm-agents)** | Multi-agent system with ReAct + plan-and-execute, MCP tool access, multi-tier memory (buffer / vector / knowledge graph), and sandboxed Docker execution | LangGraph, MCP, GPT-4, Claude, Weaviate, Docker |
 
-<br>
+### LLM Infrastructure & Systems
 
-Production RAG platform designed for accuracy and cost efficiency at scale.
-
-- **Hybrid retrieval pipeline** combining BM25 sparse search with dense vector embeddings, followed by cross-encoder reranking for precision
-- **Multi-LLM router** supporting OpenAI, Anthropic, and local models (vLLM) with automatic fallback and cost-aware routing
-- **Advanced chunking strategies** -- recursive splitting, semantic chunking, and parent-child document linking for context preservation
-- **Evaluation framework** using RAGAS (faithfulness, answer relevancy, context precision) with automated regression testing
-- **Semantic caching layer** with Redis to deduplicate similar queries and reduce LLM API costs by ~40%
-- **Guardrails** for hallucination detection, PII filtering, and output validation
-
-**Tech:** Python, FastAPI, LangChain, Weaviate, vLLM, Redis, RAGAS
-
-[View Repository →](https://github.com/sanketny8/enterprise-rag-system)
-
-</details>
-
-<details>
-<summary><strong>Autonomous LLM Agents</strong> &mdash; Multi-agent orchestration with MCP integration</summary>
-
-<br>
-
-Multi-agent system implementing production agentic AI patterns with tool use and planning.
-
-- **Agent patterns** -- ReAct (reason + act), plan-and-execute with dynamic replanning, reflection loops for self-correction
-- **MCP server integration** enabling agents to access external tools (file systems, databases, APIs) through Model Context Protocol
-- **Dynamic tool registry** allowing runtime tool discovery, schema validation, and permission-scoped execution
-- **Multi-tier memory** -- short-term (conversation buffer), episodic (vector store), and long-term (knowledge graph) for context management
-- **Sandboxed execution environment** with Docker containers for safe code execution, resource limits, and state snapshotting
-- **Multi-agent communication** using a supervisor pattern with specialized sub-agents for research, coding, and review tasks
-
-**Tech:** Python, LangGraph, MCP, GPT-4, Claude, Weaviate, Docker
-
-[View Repository →](https://github.com/sanketny8/autonomous-llm-agents)
-
-</details>
-
-<details>
-<summary><strong>LLM Fine-tuning Platform</strong> &mdash; End-to-end fine-tuning with experiment tracking and deployment</summary>
-
-<br>
-
-Platform for fine-tuning LLMs from dataset preparation to production deployment.
-
-- **Parameter-efficient fine-tuning** with LoRA and QLoRA, supporting 4-bit quantization for training on consumer GPUs
-- **Dataset pipeline** -- ingestion, deduplication, quality filtering, instruction formatting (Alpaca, ShareGPT, ChatML)
-- **Comprehensive evaluation suite** -- perplexity, BLEU, ROUGE, human-eval, task-specific benchmarks with statistical significance testing
-- **Experiment tracking** via MLflow and Weights & Biases -- hyperparameter sweeps, loss curves, GPU utilization monitoring
-- **Auto-deployment pipeline** converting fine-tuned checkpoints to vLLM-compatible format with automated A/B testing
-- **Multi-GPU training** support through DeepSpeed ZeRO Stage 2/3 for models that don't fit on a single GPU
-
-**Tech:** PyTorch, Transformers, PEFT, DeepSpeed, MLflow, Weights & Biases, vLLM
-
-[View Repository →](https://github.com/sanketny8/llm-finetuning-platform)
-
-</details>
-
-<details>
-<summary><strong>AI Gateway Microservices</strong> &mdash; High-performance Go backend for LLM routing and observability</summary>
-
-<br>
-
-Go-based API gateway designed for routing, caching, and observing LLM traffic at scale.
-
-- **Multi-provider routing** with weighted load balancing across OpenAI, Anthropic, and self-hosted models, with automatic failover on errors or latency spikes
-- **Semantic caching** using embedding similarity to serve cached responses for semantically equivalent queries, reducing costs
-- **Token-based rate limiting** with per-user and per-organization quotas, sliding window counters, and burst allowances
-- **Full OpenTelemetry instrumentation** -- request tracing across services, latency histograms, token usage metrics, cost attribution per tenant
-- **gRPC inter-service communication** with protobuf schemas, connection pooling, and circuit breakers for downstream service protection
-- **Admin dashboard** with real-time metrics, usage analytics, and cost breakdowns per model and per tenant
-
-**Tech:** Go, gRPC, Redis, PostgreSQL, OpenTelemetry, Prometheus, Docker
-
-[View Repository →](https://github.com/sanketny8/ai-gateway-microservices)
-
-</details>
-
-<details>
-<summary><strong>GPU Kubernetes Platform</strong> &mdash; Production K8s infrastructure for GPU workloads and model serving</summary>
-
-<br>
-
-Terraform-provisioned Kubernetes platform optimized for GPU-intensive ML workloads.
-
-- **Multi-tier GPU node pools** -- T4 (dev/inference), A10G (fine-tuning), A100 (large-scale training) with workload-aware scheduling
-- **Model serving stack** -- KServe for autoscaling inference endpoints, vLLM Operator for LLM-specific serving, Triton for multi-model serving
-- **GPU monitoring** via DCGM exporter -- utilization, memory, temperature, power metrics flowing to Prometheus/Grafana dashboards
-- **MIG (Multi-Instance GPU) partitioning** on A100s to run multiple smaller models on a single GPU for cost efficiency
-- **GitOps workflow** with ArgoCD for declarative cluster state, Helm charts for service packaging, automated rollbacks on health check failures
-- **Cost optimization** -- spot instance integration, cluster autoscaler with GPU-aware binpacking, idle GPU detection and scale-down
-
-**Tech:** Terraform, Kubernetes, Helm, ArgoCD, KServe, vLLM Operator, NVIDIA GPU Operator, Prometheus
-
-[View Repository →](https://github.com/sanketny8/gpu-kubernetes-platform)
-
-</details>
-
-<details>
-<summary><strong>LLM Engineering Fundamentals</strong> &mdash; Complete transformer from scratch, tokenization to generation</summary>
-
-<br>
-
-Educational implementation building a transformer from the ground up in pure NumPy.
-
-- **BPE tokenizer** implemented from scratch -- byte-pair encoding with vocabulary training, merge rules, and special token handling
-- **Positional encodings** -- RoPE (Rotary Position Embeddings) and ALiBi (Attention with Linear Biases) with mathematical derivations
-- **Multi-head attention** with causal masking, scaled dot-product, KV caching for efficient autoregressive generation
-- **Decoding strategies** -- greedy, beam search (with length normalization), top-k sampling, nucleus (top-p) sampling, temperature scaling
-- **Full training loop** with AdamW optimizer, learning rate warmup + cosine decay, gradient clipping, and checkpointing
-- **148+ passing tests** across 10 project modules covering tokenization, embeddings, attention, FFN, training, and generation
-
-**Tech:** Python, NumPy (zero external ML dependencies)
-
-[View Repository →](https://github.com/sanketny8/llm-engineering-fundamentals)
-
-</details>
-
-</details>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Enterprise RAG System](https://github.com/sanketny8/enterprise-rag-system)** | Hybrid retrieval + cross-encoder reranking, multi-LLM router with fallback, semantic caching (~40% cost cut), RAGAS eval & guardrails | FastAPI, LangChain, Weaviate, vLLM, Redis |
+| **[AI Gateway Microservices](https://github.com/sanketny8/ai-gateway-microservices)** | Go gateway for LLM traffic: multi-provider routing, semantic cache, token rate limiting, full OpenTelemetry + cost attribution | Go, gRPC, Redis, PostgreSQL, OTel |
+| **[GPU Kubernetes Platform](https://github.com/sanketny8/gpu-kubernetes-platform)** | Multi-tier GPU node pools, KServe/vLLM serving, DCGM monitoring, MIG partitioning, GitOps with autoscaling | Terraform, K8s, Helm, ArgoCD, KServe |
+| **[LLM Fine-tuning Platform](https://github.com/sanketny8/llm-finetuning-platform)** | LoRA/QLoRA fine-tuning, dataset pipeline, eval suite, MLflow/W&B tracking, auto-deploy to vLLM | PyTorch, PEFT, DeepSpeed, MLflow |
+| **[LLM Engineering Fundamentals](https://github.com/sanketny8/llm-engineering-fundamentals)** | Transformer from scratch in NumPy: BPE tokenizer, RoPE/ALiBi, multi-head attention, decoding strategies, 148+ tests | Python, NumPy |
 
 ---
 
+## Research & Experiments
+
+| Project | Focus |
+| --- | --- |
+| **[MicroGPT Reward-Gated](https://github.com/sanketny8/microgpt-reward)** | Four-quadrant reinforcement -- intrinsic reward matrices inside a transformer with real correctness signals |
+| **[MicroGPT 1-bit](https://github.com/sanketny8/microgpt-1bit)** | 1-bit GPT (BitNet b1.58) in pure Python -- ternary weight quantization with zero dependencies |
+
 <details>
-<summary><strong>Research</strong> &mdash; Exploring attention variants in minimal GPT</summary>
+<summary><strong>Attention Variants in Minimal GPT</strong> &mdash; comparing 6 attention mechanisms</summary>
 
 <br>
 
-### Attention Variants in Minimal GPT
+Systematic comparison of **6 attention mechanisms** in a zero-dependency GPT (~12K parameters) across 3 rounds of experiments with identical hyperparameters, seeds, and data.
 
-Systematic comparison of **6 attention mechanisms** in a zero-dependency GPT implementation (~12K parameters) across 3 rounds of experiments.
-
-**Variants tested:**
-
-- Standard multi-head attention (baseline)
-- Gated value attention -- learnable gates on value projections
-- Relational scoring -- explicit pairwise token relationship modeling
-- Salience weighting -- dynamic importance scoring before softmax
-- Context-augmented attention -- global context vector injected into attention computation
-- Difference attention -- attention based on token difference vectors
+**Variants tested:** standard multi-head (baseline), gated value attention, relational scoring, salience weighting, context-augmented attention, difference attention.
 
 **Key findings:**
 
-- The **gated-context variant** consistently outperformed standard attention on character-level generation (lower loss, faster convergence)
-- Salience weighting showed the most improvement on longer sequences but added ~15% overhead
+- The **gated-context variant** consistently outperformed standard attention (lower loss, faster convergence)
+- Salience weighting helped most on longer sequences but added ~15% overhead
 - Difference attention underperformed on small models but may scale better (untested at larger scales)
-- All experiments run with identical hyperparameters, seeds, and training data for fair comparison
-
-[Code & Results →](https://github.com/sanketny8/MyProfile)
 
 </details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanketny8&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketny8&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketny8&hide_border=true&theme=radical" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## Let's Connect
 
-- **Twitter/X:** [@Ny8Sanket](https://twitter.com/Ny8Sanket)
-- **LinkedIn:** [ny8sanket](https://linkedin.com/in/ny8sanket)
-- **Portfolio:** [sanketny8.github.io](https://sanketny8.github.io)
 - **Daily Digest:** [ai-daily-digest](https://github.com/sanketny8/ai-daily-digest) -- auto-curated trending AI papers, repos & blogs
 - **AI Bookmarks:** [sanketny8.github.io/ai-bookmarks](https://sanketny8.github.io/ai-bookmarks/) -- curated AI resources synced from browser
+- **Open to:** agentic AI systems, system design discussions, backend architecture, open source collaboration, code reviews
 
-**Open to:** System design discussions, backend architecture, open source collaboration, code reviews
+<div align="center">
+  <sub>Find me on
+  <a href="https://twitter.com/Ny8Sanket">Twitter</a> ·
+  <a href="https://linkedin.com/in/ny8sanket">LinkedIn</a> ·
+  <a href="https://sanketny8.github.io">Portfolio</a></sub>
+</div>
